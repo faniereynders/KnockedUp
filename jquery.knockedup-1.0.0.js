@@ -3,6 +3,8 @@
 }
 
 
+
+
 ku.applyMappings = function (scope) {
 
     for (var p in ko.bindingHandlers) {
